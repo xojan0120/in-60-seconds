@@ -3,7 +3,8 @@
 ![2020-07-11_11h12_40](https://user-images.githubusercontent.com/33190342/87214517-4cc1b600-c368-11ea-9359-e0741a1e8afa.gif)
 
 ---
-
+![2020-07-11_11h21_13](https://user-images.githubusercontent.com/33190342/87214567-b5a92e00-c368-11ea-8a11-95a6fd8517a4.gif)
+---
 ### Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
